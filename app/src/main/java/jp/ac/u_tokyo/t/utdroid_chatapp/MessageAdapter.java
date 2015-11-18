@@ -12,7 +12,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * メッセージを格納するためのクラス
+ * メッセージをListViewに表示するためのクラス
  */
 public class MessageAdapter extends ArrayAdapter<Message> {
     /* xmlファイルからレイアウトを読み込むための変数 */
